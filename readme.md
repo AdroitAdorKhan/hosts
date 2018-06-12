@@ -1,3 +1,19 @@
+![Cover](https://ador.chorompotro.com/energized_blu_cover.svg)
+
+<h1 align="center">Energized Blu - Hosts ⚡</h1>
+
+<div align="center">
+  :steam_locomotive::train::train::train::train::train:
+</div>
+<div align="center">
+  <strong>Fun functional programming</strong>
+</div>
+<div align="center">
+  A <code>4kb</code> framework for creating sturdy frontend applications
+</div>
+
+<br />
+
 [![Build Status](https://travis-ci.org/StevenBlack/hosts.svg?branch=master)](https://travis-ci.org/StevenBlack/hosts)
 
 # Unified hosts file with base extensions
