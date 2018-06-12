@@ -3,13 +3,13 @@
 <h1 align="center">Energized Blu - Hosts ⚡</h1>
 
 <div align="center">
-  :steam_locomotive::train::train::train::train::train:
+  <strong>Lightweight Energized Protection!</strong>
 </div>
 <div align="center">
-  <strong>Fun functional programming</strong>
+  Let's make an annoyance free better open internet.
 </div>
 <div align="center">
-  A <code>4kb</code> framework for creating sturdy frontend applications
+  Lightweight versions of <a href="https://github.com/AdroitAdorKhan/Energized" target="_blank"><Energized></a> Hosts. Main purpose of this version is to provide the best protection, compacting the size of the hosts file. Hopefully, this will cover most of the bad sites and give you the best protection in a compact size ever!
 </div>
 
 <br />
