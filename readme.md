@@ -3,18 +3,77 @@
 <h1 align="center">Energized Blu - Hosts ⚡</h1>
 
 <div align="center">
-  <strong>Lightweight Energized Protection!</strong>
+  <!-- Version -->
+    <img src="https://img.shields.io/badge/Version-_version_-blue.svg?longCache=true&style=flat-square"
+      alt="_version_" />
+  <!-- Last Updated -->
+    <img src="https://img.shields.io/badge/Updated-_timestamp_-orange.svg?longCache=true&style=flat-square"
+      alt="_time_stamp_" />
 </div>
+
 <div align="center">
-  Let's make an annoyance free better open internet.
+  <strong>Lightweight Energized Protection!</strong>
 </div>
 <div align="center">
   Lightweight versions of <a href="https://github.com/AdroitAdorKhan/Energized" target="_blank"><Energized></a> Hosts. Main purpose of this version is to provide the best protection, compacting the size of the hosts file. Hopefully, this will cover most of the bad sites and give you the best protection in a compact size ever!
 </div>
+<div align="center">
+  <strong>Let's make an annoyance free better open internet, altogether!</strong>
+</div>
 
 <br />
 
-[![Build Status](https://travis-ci.org/StevenBlack/hosts.svg?branch=master)](https://travis-ci.org/StevenBlack/hosts)
+<div align="center">
+  <!-- CodeAnyWhere -->
+  <a href="https://codeanywhere.com/">
+    <img src="https://img.shields.io/badge/Cloud-CodeAnyWhere-7F3F97.svg?longCache=true&style=flat-square"
+      alt="CodeAnyWhere" />
+  </a>
+  <!-- License -->
+  <a href="https://github.com/EnergizedProtection/EnergizedBlu/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square"
+      alt="MIT" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>
+    <a href="https://ador.chorompotro.com">
+      Website
+    </a>
+    <span> | </span>
+    <a href="http://adroit.heliohost.org">
+      Backup Server
+    </a>
+    <span> | </span>
+    <a href="https://github.com/AdroitAdorKhan/Energized">
+      Energized Repo
+    </a>
+    <span> | </span>
+    <a href="https://ador.chorompotro.com/energized/secure/">
+      Test Adblock
+    </a>
+    <span> | </span>
+    <a href="https://t.me/EnergizedProtection">
+      Telegram
+    </a>
+  </h3>
+</div>
+
+<div align="center">
+  <sub>The best ever Energized in a compact size! Built with ❤︎ by
+  <a href="https://adroitadorkhan.github.io">Ador</a> in Bangladesh.
+  </a>
+</div>
+
+## Features
+- __minimal size:__ weighing `couple` of MBs, Blu is the best Energized in a compact pack!
+- __hosts based:__ based on `Hosts` file, all the bad stuffs blocked with `0.0.0.0`
+- __any device:__ compatible with all devices, regardless of OS.
+- __blockings:__ strictly blocks `advertisements, malwares, spams, statistics & trackers` on both web browsing and applications.
+- __speed you need:__ reduces page loading time upto `half` of its actual time!
+- __privacy:__ with all these annoyances blocking, it also increases privacy.
+- __clean:__ no extra abracadabra! 
 
 # Unified hosts file with base extensions
 
